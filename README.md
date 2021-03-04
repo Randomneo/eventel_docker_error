@@ -1,5 +1,5 @@
 # eventel_docker_error
-Demonstration of bug in eventlet
+Demonstration of bug in eventlet. Reproduced only on ubuntu 18.04
 
 # Steps to reproduce
 
