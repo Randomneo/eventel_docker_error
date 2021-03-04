@@ -16,3 +16,17 @@ You'll get before redis. Deadlock apears.
 Problem not in redis. You can check that by
 
     python test/test_ok.py
+
+
+# Outputs
+
+test.py
+
+    # python test/test.py
+    before redis
+
+test_ok.py
+
+    # python test/test_ok.py
+    before redis
+    after redis
